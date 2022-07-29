@@ -1,0 +1,28 @@
+{
+  "name": "ghmassfollow",
+  "version": "1.0.0",
+  "description": "A simple command line utility to follow all of the users listed in a file",
+  "main": "ghMassFollow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Del-on-git/ghMassFollow.js.git"
+  },
+  "keywords": [
+    "script",
+    "convenience",
+    "github",
+    "Node.js"
+  ],
+  "author": "Dean Elizardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Del-on-git/ghMassFollow.js/issues"
+  },
+  "homepage": "https://github.com/Del-on-git/ghMassFollow.js#readme",
+  "dependencies": {
+    "octokit": "^2.0.4"
+  }
+}
